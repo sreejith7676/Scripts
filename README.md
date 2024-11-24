@@ -13,7 +13,7 @@ To get started with the scripts in this repository, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/sarthakroy2002/Scripts.git
+   git clone https://github.com/sreejith7676/Scripts.git
    ```
 
 2. Navigate to the repository directory:
