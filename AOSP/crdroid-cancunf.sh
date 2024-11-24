@@ -11,7 +11,7 @@ git lfs install
 repo init -u https://github.com/crdroidandroid/android.git -b 14.0 --git-lfs
 repo sync 
 
-git clone https://github.com/sreejith7676/device_motorola_cancunf.git device/motorola/cancunf
+git clone -b fourteen-crDroid https://github.com/sreejith7676/device_motorola_cancunf.git device/motorola/cancunf
 git clone -b fourteen https://github.com/sarthakroy2002/vendor_motorola_cancunf.git vendor/motorola/cancunf
 git clone https://gitlab.com/sarthakroy2002/vendor_motorola_cancunf-motcamera.git vendor/motorola/cancunf-motcamera
 git clone -b fourteen https://github.com/sarthakroy2002/device_motorola_cancunf-kernel.git device/motorola/cancunf-kernel
